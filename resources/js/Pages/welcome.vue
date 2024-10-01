@@ -4,4 +4,5 @@ import { Head } from '@inertiajs/vue3'
 
 <template>
   <Head title="Welcome" />
+  <h1>Welcome</h1>
 </template>
